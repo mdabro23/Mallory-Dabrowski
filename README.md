@@ -12,4 +12,4 @@
  
 - <b>Virtual Private Networks<b>
   - [VPN: Prerequisites and Installtion](https://github.com/Mallory-Dabrowski/vpn-prereqs)
-  - [VPN: Post-Installation Configuration](https://github.com/Mallory-Dabrowski/vpn-post-install-config)
+  - [VPN: Post-Installation Configuration](https://github.com/Mallory-Dabrowski/vpn-post-install-config/read.me)
