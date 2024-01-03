@@ -3,7 +3,7 @@
 <h2> Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Installation](https://github.com/Mallory-Dabrowski/osticket-install-config)
+  - [osTicket: Installation](https://github.com/Mallory-Dabrowski/osticket-install-config/read.me)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Mallory-Dabrowski/ticket-lifecycle)
 
 - <b>Microsoft Azure</b>
